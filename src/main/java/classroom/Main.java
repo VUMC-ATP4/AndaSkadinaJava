@@ -1,3 +1,5 @@
+package classroom;
+
 public class Main {
 //    sis attiecas uz visām klasēm
     int timeout = 10;
@@ -67,12 +69,12 @@ public class Main {
         int atlikums = 10 % 3;
 
 //        int a = 1;
-        double a = 2
+//        double a = 2
         int b = 4;
         int c = 7;
 //        int division = b/a
 // Ja dalītais un dalāmais ir veseli, dalīs veselos. Ja kaut viens decimāls, tad arī dalījums būs decimaļs
-        System.out.println("#########" + b/a);
+//        System.out.println("#########" + b/a);
         int vienadojums = 5+5*2;
 //        int vienadojums = -(5+5)*2;
 
@@ -80,7 +82,7 @@ public class Main {
 //        System.out.println((double) b);
 //        System.out.println((int) a);
 
-        System.out.println("Ja atlikums ir 0, tad para skaitlis" +a%2);
+//        System.out.println("Ja atlikums ir 0, tad para skaitlis" +a%2);
 
 
 
